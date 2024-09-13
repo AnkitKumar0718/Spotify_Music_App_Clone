@@ -3,7 +3,7 @@ import { getAuth } from "firebase/auth";
 
 // Firebase configuration object containing project-specific settings
 const firebaseConfig = {
-  apiKey: "AIzaSyBoE1Ohkh7WdFNHn-Rp4FhDyxFsatK2KxI",
+  apiKey: "API_key",
   authDomain: "spotify-authentication-f8fc3.firebaseapp.com",
   projectId: "spotify-authentication-f8fc3",
   storageBucket: "spotify-authentication-f8fc3.appspot.com",
